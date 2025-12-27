@@ -1,0 +1,12 @@
+employee_id,first_name,last_name,email,salary,department_id,hire_date
+1,John,Smith,john.smith@company.com,75000,1,2022-03-15
+2,Sarah,Johnson,sarah.j@company.com,82000,1,2021-06-20
+3,Mike,Williams,mike.w@company.com,68000,2,2023-01-10
+4,Emily,Brown,,71000,2,2022-09-05
+5,David,Jones,david.j@company.com,0,3,2020-11-12
+6,Lisa,Garcia,lisa.g@company.com,73000,3,2021-04-18
+7,Robert,Miller,,85000,1,2019-08-22
+8,Jennifer,Davis,jennifer.d@company.com,67000,4,2023-02-14
+9,William,Rodriguez,william.r@company.com,0,5,2020-05-30
+10,Maria,Martinez,,77000,10,
+11,James,Hernandez,james.h@company.com,70000,,

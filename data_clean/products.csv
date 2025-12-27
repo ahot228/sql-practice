@@ -1,0 +1,11 @@
+product_id,product_name,category_id,price,stock_quantity
+1,"Laptop Pro 15",1,1299.99,45
+2,"Wireless Mouse",1,29.99,150
+3,"USB-C Cable",1,,200
+4,,2,19.99,300
+5,"Denim Jeans",2,49.99,120
+6,"The Great Novel",3,24.99,80
+7,"Cooking Guide",3,18.99,65
+8,"Garden Tool Set",4,89.99,10
+9,"LED Desk Lamp",10,39.99,0
+10,"Yoga Mat",5,,110
